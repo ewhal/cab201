@@ -1,0 +1,17 @@
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.exe
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.pdb
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\DisplayMotto\obj\Debug\ResolveAssemblyReference.cache
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.exe
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.exe.config
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.csprojResolveAssemblyReference.cache
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.exe.config
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.exe
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.pdb
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.exe
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\DisplayMotto\bin\Debug\DisplayMotto.pdb
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\DisplayMotto\obj\Debug\DisplayMotto.csprojResolveAssemblyReference.cache

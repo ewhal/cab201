@@ -1,0 +1,19 @@
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.exe
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.pdb
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.exe
+C:\Documents and Settings\roggenka\My Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.pdb
+C:\Users\roggenka\Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.exe
+C:\Users\roggenka\Documents\Visual Studio 2008\Projects\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 2\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 2\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 2\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.exe
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 2\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.pdb
+\\staffhome.qut.edu.au\staffgroupr$\roggenka\Desktop\CAB201 S2 2015\Workshops\Week 2\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 2\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 2\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 2\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 2\SimpleTempConversion\SimpleTempConversion\bin\Debug\SimpleTempConversion.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 1\Worksheets\Week 2\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.csprojResolveAssemblyReference.cache
+C:\Users\n9446800\Downloads\SimpleTempConversion(1)\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.exe
+C:\Users\n9446800\Downloads\SimpleTempConversion(1)\SimpleTempConversion\SimpleTempConversion\obj\Debug\SimpleTempConversion.pdb

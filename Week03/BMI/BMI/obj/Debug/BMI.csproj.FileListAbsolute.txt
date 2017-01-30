@@ -1,0 +1,9 @@
+H:\BMI\BMI\bin\Debug\BMI.exe.config
+H:\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+H:\BMI\BMI\bin\Debug\BMI.exe
+H:\BMI\BMI\bin\Debug\BMI.pdb
+H:\BMI\BMI\obj\Debug\BMI.exe
+H:\BMI\BMI\obj\Debug\BMI.pdb
+D:\CAB201\Week03\BMI\BMI\bin\Debug\BMI.exe.config
+D:\CAB201\Week03\BMI\BMI\obj\Debug\BMI.exe
+D:\CAB201\Week03\BMI\BMI\obj\Debug\BMI.pdb

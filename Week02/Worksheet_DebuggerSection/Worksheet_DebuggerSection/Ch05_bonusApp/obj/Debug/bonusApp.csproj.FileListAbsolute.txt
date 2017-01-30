@@ -1,0 +1,17 @@
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.exe
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.pdb
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\Ch05_bonusApp\obj\Debug\ResolveAssemblyReference.cache
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.exe
+C:\INB270\2009 Sem 1\Worksheets\Worksheet3_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.exe.config
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Sem 2\Workshops\Week 2\Worksheet_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.csprojResolveAssemblyReference.cache
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.exe.config
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.exe
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.pdb
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.exe
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\Ch05_bonusApp\bin\Debug\bonusApp.pdb
+C:\Users\n9446800\Downloads\Worksheet_DebuggerSection\Worksheet_DebuggerSection\Ch05_bonusApp\obj\Debug\bonusApp.csprojResolveAssemblyReference.cache

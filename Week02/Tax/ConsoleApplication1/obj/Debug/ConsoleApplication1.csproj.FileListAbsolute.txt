@@ -1,0 +1,12 @@
+c:\users\n9446800\documents\visual studio 2015\Projects\Tax\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\n9446800\documents\visual studio 2015\Projects\Tax\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\n9446800\documents\visual studio 2015\Projects\Tax\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\n9446800\documents\visual studio 2015\Projects\Tax\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\n9446800\documents\visual studio 2015\Projects\Tax\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\n9446800\documents\visual studio 2015\Projects\Tax\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CAB202\Week02\Tax\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\CAB202\Week02\Tax\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CAB202\Week02\Tax\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CAB202\Week02\Tax\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CAB202\Week02\Tax\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CAB202\Week02\Tax\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
